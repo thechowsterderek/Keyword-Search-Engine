@@ -1,7 +1,3 @@
-# Mohammed Alabdullatif (67954718)
-# Derek Chow (80541666)
-# Ryan Ghavimi (25689742)
-# Assignment3.py
 
 from __future__ import print_function
 import glob
